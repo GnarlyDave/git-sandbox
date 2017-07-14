@@ -7,3 +7,7 @@ easy, to be on the wrong branch (top of the screen),
  even though the railway tracks look ok.
 (On master you get the Sync option in GD, on the branch the Publish button appears)
 And yes, you can still change branches in GD while editing a file...and the disk changes.
+commit in GD.
+Publish (GD)
+Create pull request (GD)
+Take care that in GD the active dot is to the far right...it doesn't always move when a file is updated elsewhere on the computer.
