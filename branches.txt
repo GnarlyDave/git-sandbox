@@ -1,0 +1,9 @@
+
+creating a branch on a local repository doesn't get reflected on the master with git desktop (GD) sync - obvious really.
+
+commiting the change on a branch in GD.
+Pay attention to the 'Commit to creating-a-new-branch' in GD...
+easy, to be on the wrong branch (top of the screen),
+ even though the railway tracks look ok.
+(On master you get the Sync option in GD, on the branch the Publish button appears)
+And yes, you can still change branches in GD while editing a file...and the disk changes.
