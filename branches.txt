@@ -11,3 +11,6 @@ commit in GD.
 Publish (GD)
 Create pull request (GD)
 Take care that in GD the active dot is to the far right...it doesn't always move when a file is updated elsewhere on the computer.
+approve the pull request on githubweb (GW).
+can merge without problems, and offered to delete branch.
+GD doesn't know about loss of branch....so switch back to master (GD) and sync.
